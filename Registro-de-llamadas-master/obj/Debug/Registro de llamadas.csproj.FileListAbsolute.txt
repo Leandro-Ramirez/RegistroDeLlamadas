@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\Registro-de-llamadas-master\bin\Debug\Registro de llamadas.exe.config
+C:\Users\PC\Downloads\Registro-de-llamadas-master\bin\Debug\Registro de llamadas.exe
+C:\Users\PC\Downloads\Registro-de-llamadas-master\bin\Debug\Registro de llamadas.pdb
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro de llamadas.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro_de_llamadas.frmLlamadas.resources
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro_de_llamadas.Properties.Resources.resources
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro de llamadas.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro de llamadas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro de llamadas.exe
+C:\Users\PC\Downloads\Registro-de-llamadas-master\obj\Debug\Registro de llamadas.pdb
